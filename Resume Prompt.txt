@@ -1,0 +1,44 @@
+1/ The Brutal Honest Review:
+
+Prompt:
+
+"Here is my resume. Pretend you are a senior hiring manager at a top company in [your industry]. Tell me honestly what's weak, what's missing, and what would make you reject this resume immediately.
+
+
+2/ The ATS Optimizer:
+
+Prompt:
+
+"Here is a job description I'm applying for. Compare it with my resume and tell me exactly which keywords are missing, which skills I should highlight more, and how I should restructure my bullet points to pass ATS screening."
+
+
+
+3/ The Bullet Point Transformer:
+
+Prompt:
+
+"Rewrite each of my bullet points using the formula: Action Verb + Task + Measurable Result. If I haven't given you numbers, ask me questions to help me find them."
+
+
+4/ The Industry Tone Match:
+
+Prompt:
+
+"Based on the tone, language, and values of companies like [Company A, Company B] in [your industry], rewrite my resume summary and skills section so it sounds like I belong in this industry not like a generic applicant.
+
+
+5/ The Final Polish:
+
+Prompt:
+
+"Do a final review of my resume. Check for: consistency in tense, any clichés or overused phrases (like 'team player' or 'hardworking'), anything that sounds generic or could apply to anyone. Replace all of it with specific, powerful language
+
+
+
+
+
+
+
+
+
+
